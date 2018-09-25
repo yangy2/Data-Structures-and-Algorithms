@@ -1,0 +1,5 @@
+https://stackoverflow.com/questions/6523712/calculating-the-number-of-inversions-in-a-permutation/6523781#6523781
+
+http://www.cs.siue.edu/~tgamage/F14/CS456/lectures/WK05.pdf
+
+https://medium.com/@ssbothwell/counting-inversions-with-merge-sort-4d9910dc95f0
